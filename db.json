@@ -1,0 +1,44 @@
+{
+    "usuarios": [
+      {
+        "id": 0,
+        "nombre": "panela de caña"
+      },
+      {
+        "id": 1,
+        "nombre": "arroz con carne papa"
+      },
+      {
+        "id": 2,
+        "nombre": "azucar"
+      },
+      {
+        "nombre": "chinin",
+        "id": 3
+      },
+      {
+        "nombre": "chinin",
+        "id": 4
+      },
+      {
+        "nombre": "CHINN",
+        "id": 5
+      },
+      {
+        "nombre": "panela del cauca",
+        "id": 6
+      },
+      {
+        "nombre": "panela del cauca",
+        "id": 7
+      },
+      {
+        "nombre": "ohla",
+        "id": 8
+      },
+      {
+        "nombre": "hola",
+        "id": 9
+      }
+    ]
+  }
